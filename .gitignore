@@ -1,0 +1,17 @@
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-archiver/pom.properties
+target/gs-spring-boot-0.1.0.jar.original
+target/gs-spring-boot-0.1.0.jar
+target/classes/hello/HelloController.class
+MyTestSpringBoot.iml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/issuestore/c/5/c58d2e4cb64e90aa8a3b3611b1cc99fdd8eed871
+.idea/sonarlint/issuestore/6/c/6c22a646dffc6c35df1fe3c98ccb51f08fb3669b
+.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+.idea/misc.xml
+.idea/encodings.xml
+.idea/compiler.xml
